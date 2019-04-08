@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp3", "ConsoleApp3\ConsoleApp3.csproj", "{ACA0E85E-D265-4F8D-8491-66E8BCB3BE3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertToPdf", "HtmlToPdf\ConvertToPdf.csproj", "{915735E5-CD4F-4611-9C11-2ED156C5BDBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACA0E85E-D265-4F8D-8491-66E8BCB3BE3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACA0E85E-D265-4F8D-8491-66E8BCB3BE3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACA0E85E-D265-4F8D-8491-66E8BCB3BE3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACA0E85E-D265-4F8D-8491-66E8BCB3BE3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{915735E5-CD4F-4611-9C11-2ED156C5BDBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{915735E5-CD4F-4611-9C11-2ED156C5BDBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{915735E5-CD4F-4611-9C11-2ED156C5BDBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{915735E5-CD4F-4611-9C11-2ED156C5BDBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F79C865-C148-4389-92DE-368610B59CA5}
+	EndGlobalSection
+EndGlobal
